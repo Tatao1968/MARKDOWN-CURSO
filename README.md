@@ -39,7 +39,7 @@ Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Regió
  
 
 - ### Stack Tecnológico del Curso:
-| <span style="color: red;">Frameworks </span> | <span style="color: red;">Bases de datos</span> | 
+| Frameworks | Bases de datos | 
 |:---|:---|
 | React |MongoDB|
 | Node.js |Docker|
@@ -47,11 +47,11 @@ Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Regió
 
   
 - ### Preferencias Tecnológicas
-  - <span style="color: cyan;">Frontend</span>
+  - Frontend
   - Backend
-  - <span style="color: cyan;">Full-stack</span>
+  - Full-stack
   - Diseño UI/UX
-  - <span style="color: cyan;">Bases de datos</span>
+  - Bases de datos
   - Analista de datos
 
 - ## Siguenos en redes sociales
