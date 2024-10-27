@@ -37,7 +37,7 @@ Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Regió
 | [<img src="./img/555html.png" width="90" height="26"/>](https://developer.mozilla.org/es/docs/Web/HTML)| [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) | [ <img src="./img/amazon-aws.svg" width="90" height="26"/>](https://aws.amazon.com/) |
 | [![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) | [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) |
  
-\ Zona de comentarioas sobre el Curso:
+
 - ### Stack Tecnológico del Curso:
 | <span style="color: red;">Frameworks </span> | <span style="color: red;">Bases de datos</span> | 
 |:---|:---|
