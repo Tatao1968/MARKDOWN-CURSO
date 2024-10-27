@@ -1,6 +1,6 @@
 # Héctor Real Acosta <img width="40" height="35" align="center" src="./img/mi-nombre.png"/> 
 ***
-## <img width="40" height="35" align="center" src="./img/actualidad.png"/> Actualidad
+## <img width="40" height="35" align="center" src="./img/Actualidad.png"/> Actualidad
 ***
 - <img width="40" height="35" align="center" src="./img/educacion.png"/> Estoy estudiando en el Centro Integral de Formación Profesional a
 Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Región de Murcia
