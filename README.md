@@ -10,15 +10,12 @@
 </span>
 
 - <h1>Hola cómo estan , Soy <a  href="https://github.com/Tatao1968/MARKDOWN-CURSO/blob/main/README.md"> Héctor Real </a> <img  src="./img/mi-nombre.png" align="center"width="40px"></h1>
-<hr>
 
 - ### <img width="40" height="35" align="left" src="./img/Actualidad.png"/> Actualidad
 
 - <img width="40" height="35" align="center" src="./img/educacion.png"/> Estoy estudiando en el Centro Integral de Formación Profesional a
 Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Región de Murcia
 - <img width="40" height="35" align="center" src="./img/formacion-profesional.png"/> Formación Profesional de Grado Superior : técnico superior en Desarrollo de Aplicaciones Web.
-
-<hr>
 
 - ### <img width="40" height="35" align="center" src="./img/materias.png"/> Asignaturas Matriculadas:
 <table align="center" face="courier">
@@ -44,15 +41,15 @@ Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Regió
     <td>3</td><td>Inglés Profesional DAW</td><td>1º de DAW</td><td>120 horas</td>
   </tr>
 <table/>
-<hr>
+
 
 <a target="_blank" align="right">
   <img align="right" top="100" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 </a>
 
-<h3 align="left"> Stack Tecnológico del Curso:</h3>
+- <h3 align="left"> Stack Tecnológico del Curso:</h3>
 <h3 align="left"  top="600"> Frameworks:</h3>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" align="center"src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
 
 <h3 align="left"> Base de Datos:</h3> 
