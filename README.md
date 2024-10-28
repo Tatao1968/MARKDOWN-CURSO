@@ -18,7 +18,7 @@
 Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Región de Murcia
 - <img width="40" height="35" align="center" src="./img/formacion-profesional.png"/> Formación Profesional de Grado Superior : técnico superior en Desarrollo de Aplicaciones Web.
 
-
+<hr>
 
 - ### <img width="40" height="35" align="center" src="./img/materias.png"/> Asignaturas Matriculadas:
 <table align="center" face="courier">
