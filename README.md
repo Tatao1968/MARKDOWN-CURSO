@@ -44,14 +44,12 @@ Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Regió
     <td>3</td><td>Inglés Profesional DAW</td><td>1º de DAW</td><td>120 horas</td>
   </tr>
 <table/>
-
-***
+<hr>
 
 <a target="_blank" align="right">
-  <img align="right" top="100" height="350" width="400" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+  <img align="right" top="100" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 </a>
 
-<br>
 <h3 align="left"> Stack Tecnológico del Curso:</h3>
 <h3 align="left"  top="600"> Frameworks:</h3>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
@@ -61,7 +59,8 @@ Distancia ["La Conservera"](https://sites.google.com/view/fplaconservera) Regió
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 
----
+<hr>
+
 ## 🛠️ Mi Stack Tecnológico Conocido:
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
